@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiaoyuan Shu | Academic</title>
+    <link>https://lewiszhao.github.io/author/qiaoyuan-shu/</link>
+      <atom:link href="https://lewiszhao.github.io/author/qiaoyuan-shu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiaoyuan Shu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 13:30:59 +0800</lastBuildDate>
+    <image>
+      <url>https://lewiszhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qiaoyuan Shu</title>
+      <link>https://lewiszhao.github.io/author/qiaoyuan-shu/</link>
+    </image>
+    
+    <item>
+      <title>Multilevel deep representation fusion for person re-identification</title>
+      <link>https://lewiszhao.github.io/publication/mdrf/</link>
+      <pubDate>Wed, 11 Mar 2020 13:30:59 +0800</pubDate>
+      <guid>https://lewiszhao.github.io/publication/mdrf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

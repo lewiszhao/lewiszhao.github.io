@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Academic</title>
+    <link>https://lewiszhao.github.io/publication-type/1/</link>
+      <atom:link href="https://lewiszhao.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2016 13:45:07 +0800</lastBuildDate>
+    <image>
+      <url>https://lewiszhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://lewiszhao.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Abnormal event detection using spatio-temporal feature and nonnegative locality-constrained linear coding</title>
+      <link>https://lewiszhao.github.io/publication/aadnllc/</link>
+      <pubDate>Sat, 10 Sep 2016 13:45:07 +0800</pubDate>
+      <guid>https://lewiszhao.github.io/publication/aadnllc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal Activity Detection Using Spatio-Temporal Feature and Laplacian Sparse Representation</title>
+      <link>https://lewiszhao.github.io/publication/aadlsr/</link>
+      <pubDate>Tue, 10 Nov 2015 13:44:59 +0800</pubDate>
+      <guid>https://lewiszhao.github.io/publication/aadlsr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

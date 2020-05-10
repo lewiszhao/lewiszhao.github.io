@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xun Xu | Academic</title>
+    <link>https://lewiszhao.github.io/author/xun-xu/</link>
+      <atom:link href="https://lewiszhao.github.io/author/xun-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xun Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Mar 2018 13:45:54 +0800</lastBuildDate>
+    <image>
+      <url>https://lewiszhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xun Xu</title>
+      <link>https://lewiszhao.github.io/author/xun-xu/</link>
+    </image>
+    
+    <item>
+      <title>Deep multiple instance learning for automatic detection of diabetic retinopathy in retinal images</title>
+      <link>https://lewiszhao.github.io/publication/dmil/</link>
+      <pubDate>Thu, 22 Mar 2018 13:45:54 +0800</pubDate>
+      <guid>https://lewiszhao.github.io/publication/dmil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

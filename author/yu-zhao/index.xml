@@ -5,12 +5,20 @@
     <link>https://lewiszhao.github.io/author/yu-zhao/</link>
       <atom:link href="https://lewiszhao.github.io/author/yu-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 13:30:59 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2020 06:39:51 +0800</lastBuildDate>
     <image>
       <url>https://lewiszhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yu Zhao</title>
       <link>https://lewiszhao.github.io/author/yu-zhao/</link>
     </image>
+    
+    <item>
+      <title>Joint Patch and Instance Discrimination Learning for Unsupervised Person Re-identiﬁcation</title>
+      <link>https://lewiszhao.github.io/publication/jpil/</link>
+      <pubDate>Sun, 02 Aug 2020 06:39:51 +0800</pubDate>
+      <guid>https://lewiszhao.github.io/publication/jpil/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multilevel deep representation fusion for person re-identification</title>
